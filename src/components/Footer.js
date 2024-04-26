@@ -27,14 +27,14 @@ const Footer = () => {
               className="flex justify-center items-center gap-5"
             >
               <MdEmail className="cursor-pointer" />
-              <p className="text-sm">info@lauwoadventures.com</p>
+              <p className="text-sm">lauwoadventures@gmail.com</p>
             </Link>
             <Link
               href="mailto:sales@lauwoadventures.com"
               className="flex justify-center items-center gap-5"
             >
               <MdOutlineAlternateEmail className="cursor-pointer" />
-              <p className="text-sm">sales@lauwoadventures.com</p>
+              <p className="text-sm">lauwoadventures@gmail.com</p>
             </Link>
             <div className="flex justify-center items-center gap-5">
               <MdLocationPin />
